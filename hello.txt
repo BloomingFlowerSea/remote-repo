@@ -1,1 +1,10 @@
 hello
+
+
+
+
+void fun2
+{
+  return;
+}
+
