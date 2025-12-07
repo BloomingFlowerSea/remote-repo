@@ -1,2 +1,10 @@
 main1
 本地修改main1, 远程修改main1
+
+
+
+
+
+
+void fun2(){
+}
